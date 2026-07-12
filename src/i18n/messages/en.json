@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Design Engineer & Creative Developer",
+    "subtitle": "I build web experiences people remember.",
+    "cta": "Start a project",
+    "viewWork": "View work"
+  },
+  "about": {
+    "title": "Shaping the Future Through Design, Technology, and Bold Ideas.",
+    "description": "Over 8 years building for the web — across startups, agencies, and brands. From simple landing pages to immersive experiences, always with the same attention to detail."
+  },
+  "work": {
+    "title": "Featured work",
+    "description": "Creating experiences that people love to use because we start from the starting point of those people.",
+    "viewAll": "View all works",
+    "seeLive": "See live",
+    "projects": {
+      "v2": {
+        "title": "En V2",
+        "description": "Next-generation platform reimagining digital experiences."
+      },
+      "project2": {
+        "title": "Proyecto Alpha",
+        "description": "Full-stack application built with modern architectures."
+      },
+      "project3": {
+        "title": "Proyecto Beta",
+        "description": "Interactive dashboard with real-time data processing."
+      }
+    }
+  },
+  "services": {
+    "title": "From Ideation to Launch, I've Got You Covered.",
+    "description": "I design and build web experiences that go beyond the expected — 3D scenes, scroll-driven narratives, and motion-rich interfaces that make people stop and pay attention.",
+    "items": {
+      "3d": {
+        "title": "3D Interactive Experiences",
+        "description": "Your product in 3D — interactive, real-time, web-native. Real-time 3D scenes built for the web. Product visualizers, interactive environments, and narrative experiences that run in the browser without sacrificing performance."
+      },
+      "webgl": {
+        "title": "WebGL & Shader Effects",
+        "description": "Visual effects that feel impossible — and run in the browser. Custom GLSL shaders for transitions, distortions, particle systems, and post-processing effects."
+      },
+      "scroll": {
+        "title": "Scroll Storytelling",
+        "description": "A story that unfolds as you scroll. Scroll-driven narratives where every pixel of movement is intentional."
+      },
+      "premium": {
+        "title": "Premium Websites",
+        "description": "A site that sells before anyone reads a word. Launch sites, product pages, and campaign experiences where the visual impact is the message."
+      },
+      "brand": {
+        "title": "Portfolio & Brand Sites",
+        "description": "Your brand, crafted pixel by pixel. Premium sites for studios, agencies, and creative professionals."
+      },
+      "motion": {
+        "title": "Motion-rich Interfaces",
+        "description": "Interfaces that feel alive. Page transitions, micro-interactions, animated components, and gesture-driven experiences."
+      }
+    }
+  },
+  "process": {
+    "title": "A process built around clarity and craft.",
+    "description": "No surprises, no handoff chaos. Just a clear path from the first conversation to a product that works.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "description": "Understanding your goals, audience, and constraints before touching a single pixel."
+      },
+      "concept": {
+        "title": "Concept & Design",
+        "description": "Visual direction, interaction design, and prototyping. You see it before I build it."
+      },
+      "development": {
+        "title": "Development",
+        "description": "Pixel-perfect implementation with performance and attention to detail built in."
+      },
+      "launch": {
+        "title": "Launch & Beyond",
+        "description": "Deployment, testing, and support. I don't disappear after the handoff."
+      }
+    }
+  },
+  "contact": {
+    "title": "Interested in working together?",
+    "subtitle": "Drop a line or simply get in touch",
+    "email": "hello@christopherleyva.dev",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "service": "Select a service",
+      "budget": "Select a range",
+      "message": "Message",
+      "send": "Send message"
+    }
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "work": "Trabajo",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Design Engineer & Creative Developer",
+    "subtitle": "Construyo experiencias web que la gente recuerda.",
+    "cta": "Iniciar un proyecto",
+    "viewWork": "Ver trabajo"
+  },
+  "about": {
+    "title": "Moldeando el Futuro a través del Diseño, la Tecnología y las Ideas Audaces.",
+    "description": "Más de 8 años construyendo para la web — en startups, agencias y marcas. Desde landing pages simples hasta experiencias inmersivas, siempre con la misma atención al detalle."
+  },
+  "work": {
+    "title": "Trabajo destacado",
+    "description": "Creando experiencias que la gente ama usar porque empezamos desde el punto de partida de esas personas.",
+    "viewAll": "Ver todos los trabajos",
+    "seeLive": "Ver sitio",
+    "projects": {
+      "v2": {
+        "title": "En V2",
+        "description": "Plataforma de nueva generación reinventando experiencias digitales."
+      },
+      "project2": {
+        "title": "Proyecto Alpha",
+        "description": "Aplicación full-stack construida con arquitecturas modernas."
+      },
+      "project3": {
+        "title": "Proyecto Beta",
+        "description": "Dashboard interactivo con procesamiento de datos en tiempo real."
+      }
+    }
+  },
+  "services": {
+    "title": "Desde la Ideación hasta el Lanzamiento, Te Cubro.",
+    "description": "Diseño y construyo experiencias web que van más allá de lo esperado — escenas 3D, narrativas impulsadas por scroll e interfaces ricas en movimiento.",
+    "items": {
+      "3d": {
+        "title": "Experiencias 3D Interactivas",
+        "description": "Tu producto en 3D — interactivo, en tiempo real, nativo de la web. Escenas 3D en tiempo real construidas para el navegador."
+      },
+      "webgl": {
+        "title": "Efectos WebGL y Shaders",
+        "description": "Efectos visuales que parecen imposibles — y funcionan en el navegador. Shaders GLSL personalizados para transiciones, distorsiones y efectos."
+      },
+      "scroll": {
+        "title": "Narrativas con Scroll",
+        "description": "Una historia que se despliega mientras haces scroll. Narrativas donde cada píxel de movimiento es intencional."
+      },
+      "premium": {
+        "title": "Sitios Web Premium",
+        "description": "Un sitio que vende antes de que alguien lea una palabra. Sitios de lanzamiento y campañas donde el impacto visual es el mensaje."
+      },
+      "brand": {
+        "title": "Sitios de Portafolio y Marca",
+        "description": "Tu marca, diseñada píxel a píxel. Sitios premium para estudios, agencias y profesionales creativos."
+      },
+      "motion": {
+        "title": "Interfaces Ricas en Movimiento",
+        "description": "Interfaces que se sienten vivas. Transiciones, micro-interacciones y experiencias gestuales."
+      }
+    }
+  },
+  "process": {
+    "title": "Un proceso construido alrededor de la claridad y la artesanía.",
+    "description": "Sin sorpresas, sin caos. Un camino claro desde la primera conversación hasta un producto que funciona.",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento",
+        "description": "Entender tus objetivos, audiencia y limitaciones antes de tocar un solo píxel."
+      },
+      "concept": {
+        "title": "Concepto y Diseño",
+        "description": "Dirección visual, diseño de interacción y prototipado. Lo ves antes de que lo construya."
+      },
+      "development": {
+        "title": "Desarrollo",
+        "description": "Implementación perfecta con rendimiento y atención al detalle."
+      },
+      "launch": {
+        "title": "Lanzamiento y Más Allá",
+        "description": "Despliegue, pruebas y soporte. No desaparezco después de la entrega."
+      }
+    }
+  },
+  "contact": {
+    "title": "¿Interesado en trabajar juntos?",
+    "subtitle": "Escríbeme o simplemente ponte en contacto",
+    "email": "hello@christopherleyva.dev",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "company": "Empresa",
+      "service": "Selecciona un servicio",
+      "budget": "Selecciona un rango",
+      "message": "Mensaje",
+      "send": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados."
+  }
+}
